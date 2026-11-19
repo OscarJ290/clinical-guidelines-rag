@@ -1,0 +1,16 @@
+# Data, index and secrets (never committed)
+data/
+.env
+*.env
+chroma_db/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db
